@@ -83,53 +83,53 @@ Path环境变量添加C:\Program Files\nodejs\node_global
 
 首页
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-22-39.582Z.png)
+![首页](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-22-39.582Z.png)
 
 会员管理
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-19-55.051Z.png)
+![会员管理](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-19-55.051Z.png)
 
 商家管理
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-20-09.152Z.png)
+![商家管理](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-20-09.152Z.png)
 
 供应商管理
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-20-30.053Z.png)
+![供应商管理](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-20-30.053Z.png)
 
 商品管理
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-20-45.891Z.png)
+![商品管理](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-20-45.891Z.png)
 
 订单管理
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-20-58.484Z.png)
+![订单管理](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-20-58.484Z.png)
 
 奖金管理
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-21-10.702Z.png)
+![奖金管理](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-21-10.702Z.png)
 
 积分管理
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-21-25.437Z.png)
+![积分管理](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-21-25.437Z.png)
 
 营销推广
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-21-59.976Z.png)
+![营销推广](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-21-59.976Z.png)
 
 统计分析
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-22-12.257Z.png)
+![统计分析](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-22-12.257Z.png)
 
 # 使用方法
 osmall电商项目包括了后台模块osmall-admin和接口服务osmall-service两个部分，目前github只上传了后台模块源码，目前暂不公开接口服务源码，如需要下载使用osmall电商系统或者进行第二次开发，扫码加产品交流群进行讨论交流，谢谢。
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/IMG_20200617_154028.png)
+![产品交流群](https://github.com/ittws/osmall-admin/blob/master/img_storge/IMG_20200617_154028.png)
 
 # 购买支付
 osmall电商系统官网价格：￥4999，如对该产品有什么不懂得地方，可以扫上方的产品交流群进行讨论交流，购买请扫下方的支付宝二维码进行购买支付，谢谢你的配合。
 
-![](https://github.com/ittws/osmall-admin/blob/master/img_storge/IMG_20200617_154029.jpg)
+![支付宝](https://github.com/ittws/osmall-admin/blob/master/img_storge/IMG_20200617_154029.jpg)
 
 
 

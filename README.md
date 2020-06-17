@@ -1,21 +1,22 @@
 
-##项目介绍##
+# 项目介绍
+
 osmall是一个多商户电商系统，采用了B2B2C商业模式的电商平台，使用了SpringBoot + SpringJPA + VUE技术架构，实现了前后端分离解耦。后台管理系统涵盖了会员管理，商家管理，供应商管理，商品管理，订单管理，奖金管理，积分管理，内容管理，营销推广，统计分析，应用设置，分润设置，系统设置等功能模块。
 
-##项目演示##
+# 项目演示
 [http://www.osmall.net/](http://www.osmall.net/)
 
 
-##技术架构##
+# 技术架构
 SpringBoot + Spring JPA + VUE 
 
 
-##环境搭建##
-###安装nodejs###
+# 环境搭建
+## 安装nodejs
 Nodejs官网：https://nodejs.org/zh-cn/download/ 下载最新的nodejs12.18.0，然
 后双击进行安装
 
-###配置nodejs###
+## 配置nodejs
 Nodejs安装目录：C:\Program Files\nodejs
 
 安装完nodejs后，就是配置nodejs，运行cmd命令，执行npm路径的配置命令
@@ -31,7 +32,7 @@ Npm config set registry=http://registry.npm.taobao.org
 查看本地镜像能不能通
 Npm config get registry
 
-###安装Vue相关包###
+## 安装Vue相关包
 打开cmd命令
 安装vue
 Npm install vue –g 
@@ -49,7 +50,7 @@ Path环境变量添加C:\Program Files\nodejs\node_global
 运行vue-v，如果显示版本号，就说明已经安装vue完成了
 
 
-##技术选型##
+# 技术选型
 
 - SpringBoot 	
 - Spring JPA 	
@@ -62,14 +63,14 @@ Path环境变量添加C:\Program Files\nodejs\node_global
 - Swagger	    
 - Vue	        
 
-##版本更新##
+# 版本更新
 
 2019-01-01  osmall V1.0
 
 搭建osmall-admin电商后台系统，发布第一个正式版本V1.0
 
 
-##项目截图##
+# 项目截图
 
 首页
 
@@ -101,11 +102,11 @@ Path环境变量添加C:\Program Files\nodejs\node_global
 统计分析
 
 
-##使用方法##
+# 使用方法
 osmall电商项目包括了后台模块osmall-admin和接口服务osmall-service两个部分，目前github只上传了后台模块源码，目前暂不公开接口服务源码，如需要下载使用osmall电商系统或者进行第二次开发，扫码加产品交流群进行讨论交流，谢谢。
 
 
-##购买支付##
+# 购买支付
 osmall电商系统官网价格：￥4999，如对该产品有什么不懂得地方，可以扫上方的产品交流群进行讨论交流，购买请扫下方的支付宝二维码进行购买支付，谢谢你的配合。
 
 

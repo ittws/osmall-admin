@@ -83,7 +83,7 @@ Path环境变量添加C:\Program Files\nodejs\node_global
 
 首页
 
-![image](https://github.com/ittws/osmall-admin/tree/master/img_storge/2020-06-16T13-22-39.582Z.png)
+![image](https://github.com/ittws/osmall-admin/raw/master/img_storge/2020-06-16T13-22-39.582Z.png)
 
 会员管理
 

@@ -5,7 +5,7 @@ osmall是一个多商户电商系统，采用了B2B2C商业模式的电商平台
 
 # 项目演示
 
-[http://www.osmall.net/](http://www.osmall.net/)
+[http://www.osmall.cc/](http://www.osmall.cc/)
 
 
 # 技术架构

@@ -122,7 +122,7 @@ Path环境变量添加C:\Program Files\nodejs\node_global
 ![统计分析](https://github.com/ittws/osmall-admin/blob/master/img_storge/2020-06-16T13-22-12.257Z.png)
 
 # 使用方法
-osmall电商项目包括了后台模块osmall-admin和接口服务osmall-service两个部分，目前github只上传了后台模块源码，目前暂不公开接口服务源码，如需要下载使用osmall电商系统或者进行第二次开发，扫码加产品交流群进行讨论交流，谢谢。
+osmall电商项目包括了后台模块osmall-admin和接口服务osmall-service两个部分，目前只上传了后台模块源码，目前暂不公开接口服务源码，如需要下载使用osmall电商系统或者进行第二次开发，扫码加产品交流群进行讨论交流，谢谢。
 
 登录账户/密码：demo/demo
 

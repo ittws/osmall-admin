@@ -129,7 +129,7 @@ osmall电商项目包括了后台模块osmall-admin和接口服务osmall-service
 ![产品交流群](https://github.com/ittws/osmall-admin/blob/master/img_storge/IMG_20200617_154028.png)
 
 # 购买支付
-osmall电商系统官网价格：￥4999，如对该产品有什么不懂得地方，可以扫上方的产品交流群进行讨论交流，购买请扫下方的支付宝二维码进行购买支付，谢谢你的配合。
+osmall电商系统官网价格：￥1999，如对该产品有什么不懂得地方，可以扫上方的产品交流群进行讨论交流，购买请扫下方的支付宝二维码进行购买支付，谢谢你的配合。
 
 ![支付宝](https://github.com/ittws/osmall-admin/blob/master/img_storge/IMG_20200617_154029.jpg)
 
